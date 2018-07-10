@@ -1,4 +1,4 @@
-# bulk_useradd
+# Bulk_Add_Halo_Users
 CloudPassage Halo Bulk User Add
 
 Disclaimer: This script is provided as is. USE AT YOUR OWN RISK.
